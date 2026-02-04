@@ -2,6 +2,9 @@
   "name": "moonsilk",
   "displayName": "Moon Silk Theme",
   "description": "Elegance of the silk of the moon...",
+  "repository": {
+    "url": "https://github.com/aldrinmathew/moonsilk"
+  },
   "version": "1.0.1",
   "engines": {
     "vscode": "^1.108.1"
