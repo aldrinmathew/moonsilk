@@ -1,0 +1,36 @@
+{
+  "name": "moonsilk",
+  "displayName": "Moon Silk Theme",
+  "description": "Elegance of the silk of the moon...",
+  "version": "1.0.1",
+  "engines": {
+    "vscode": "^1.108.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Moon Silk",
+        "uiTheme": "vs-dark",
+        "path": "./themes/moon_silk.json"
+      },
+      {
+        "label": "Moon Silk - Forest",
+        "uiTheme": "vs-dark",
+        "path": "./themes/moon_silk_forest.json"
+      },
+      {
+        "label": "Moon Silk - Aqua",
+        "uiTheme": "vs",
+        "path": "./themes/moon_silk_aqua.json"
+      },
+      {
+        "label": "Moon Silk - Coffee",
+        "uiTheme": "vs",
+        "path": "./themes/moon_silk_coffee.json"
+      }
+    ]
+  }
+}
