@@ -6,6 +6,7 @@
     "url": "https://github.com/aldrinmathew/moonsilk"
   },
   "version": "1.0.1",
+  "publisher": "aldrinsartfactory",
   "engines": {
     "vscode": "^1.108.1"
   },
